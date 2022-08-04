@@ -1,8 +1,9 @@
 {
-  "name": "sc-variables",
+  "name": "signumconsult-variables",
   "version": "1.0.0",
   "description": "css variables ",
   "main": "variables.css",
+  "style": "variables.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
