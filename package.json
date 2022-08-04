@@ -1,10 +1,11 @@
 {
   "name": "signumconsult-variables",
-  "version": "1.0.0",
-  "description": "css variables ",
+  "version": "1.0.1",
+  "description": "CSS variables ",
   "main": "variables.css",
   "style": "variables.css",
   "scripts": {
+    "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -15,5 +16,8 @@
     "box-shadows"
   ],
   "author": "Henry Villa",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
 }
