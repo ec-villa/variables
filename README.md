@@ -10,11 +10,11 @@
 **NPM**
 
 ```sh
-npm install --save @sconsult/variables
+npm install --save signumconsult-variables
 ```
 
 **YARN**
 
 ```sh
-yarn add -D @sconsult/variables
+yarn add -D signumconsult-variables
 ```
